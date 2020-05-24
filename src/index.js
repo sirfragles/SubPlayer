@@ -11,6 +11,7 @@ import './fontello/css/fontello.css';
 import 'nprogress/nprogress.css';
 import 'react-virtualized/styles.css';
 import 'react-toastify/dist/ReactToastify.css';
+import WaveSurfer from 'wavesurfer.js';
 
 setTranslations(i18n);
 NProgress.configure({ minimum: 0, showSpinner: false });
